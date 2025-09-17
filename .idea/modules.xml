@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OdetteBakam_COMP228Lab1/OdetteBakam_COMP228Lab1.iml" filepath="$PROJECT_DIR$/OdetteBakam_COMP228Lab1/OdetteBakam_COMP228Lab1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OdetteBakam_COMP228Lab2/OdetteBakam_COMP228Lab2.iml" filepath="$PROJECT_DIR$/OdetteBakam_COMP228Lab2/OdetteBakam_COMP228Lab2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OdetteBakam_COMP228Lab3/OdetteBakam_COMP228Lab3.iml" filepath="$PROJECT_DIR$/OdetteBakam_COMP228Lab3/OdetteBakam_COMP228Lab3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OdetteBakam_COMP228Lab4/OdetteBakam_COMP228Lab4.iml" filepath="$PROJECT_DIR$/OdetteBakam_COMP228Lab4/OdetteBakam_COMP228Lab4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OdetteBakam_COMP228Lab5/OdetteBakam_COMP228Lab5.iml" filepath="$PROJECT_DIR$/OdetteBakam_COMP228Lab5/OdetteBakam_COMP228Lab5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OdetteBakam_COMP228Lab6/OdetteBakam_COMP228Lab6.iml" filepath="$PROJECT_DIR$/OdetteBakam_COMP228Lab6/OdetteBakam_COMP228Lab6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/comp228406-OdetteBakam-fall2025.iml" filepath="$PROJECT_DIR$/.idea/comp228406-OdetteBakam-fall2025.iml" />
+    </modules>
+  </component>
+</project>
