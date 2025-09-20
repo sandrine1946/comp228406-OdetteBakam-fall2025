@@ -3,10 +3,9 @@ package Exercise1;
 public class Exercise1Driver {
 
         public static void main(String[] args) {
+
             Singers singer1 = new Singers();
-
             System.out.println("First singer Default PII details:");
-
             singer1.displaySingerDetails();
 
             // One setter for all values of instance variables
@@ -29,9 +28,11 @@ public class Exercise1Driver {
             System.out.println("Date of Birth: " + singer1.getDOB());
             System.out.println("Number of Albums Published: " + singer1.getNap());
 
+
             Singers singer2 = new Singers(4, "Kiroukou", "108 Dentith Road", "2000/12/30", 20);
             System.out.println("Details of the second singer:");
             singer2.displaySingerDetails();
+
         }
     }
 
