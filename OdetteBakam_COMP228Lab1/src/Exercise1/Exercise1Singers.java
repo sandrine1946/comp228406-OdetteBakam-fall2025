@@ -1,6 +1,6 @@
 package Exercise1;
 
-public class Singers {
+public class Exercise1Singers {
     // Instance variables
     private int sId;
     private String sName;
@@ -9,7 +9,7 @@ public class Singers {
     private int Nap;
 
     // No-argument constructor
-    public Singers() {
+    public Exercise1Singers() {
         this.sId = 0;
         this.sName = "Unknown";
         this.sAddress = "Not specified";
@@ -17,7 +17,7 @@ public class Singers {
         this.Nap = 0;
     }
     // Constructor with 5 arguments
-    public Singers(int sId, String sName, String sAddress, String DOB, int Nap) {
+    public Exercise1Singers(int sId, String sName, String sAddress, String DOB, int Nap) {
         this.sId = sId;
         this.sName = sName;
         this.sAddress = sAddress;

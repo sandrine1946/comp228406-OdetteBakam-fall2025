@@ -4,7 +4,7 @@ public class Exercise1Driver {
 
         public static void main(String[] args) {
 
-            Singers singer1 = new Singers();
+            Exercise1Singers singer1 = new Exercise1Singers();
             System.out.println("First singer Default PII details:");
             singer1.displaySingerDetails();
 
@@ -29,7 +29,7 @@ public class Exercise1Driver {
             System.out.println("Number of Albums Published: " + singer1.getNap());
 
 
-            Singers singer2 = new Singers(4, "Kiroukou", "108 Dentith Road", "2000/12/30", 20);
+            Exercise1Singers singer2 = new Exercise1Singers(4, "Kiroukou", "108 Dentith Road", "2000/12/30", 20);
             System.out.println("Details of the second singer:");
             singer2.displaySingerDetails();
 
